@@ -154,4 +154,7 @@ Copy
 Edit
 chmod +x setup.sh test_dashboard.sh cleanup.sh
 
-<img width="1440" height="900" alt="Screenshot 2025-07-15 at 6 28 19 PM" src="https://github.com/user-attachments/assets/d745f54b-9b0d-43b9-becf-8df4ad8b205a" />
+
+
+
+<img width="1440" height="900" alt="Screenshot 2025-07-15 at 6 28 19 PM" src="https://github.com/user-attachments/assets/811b2b05-ecff-4995-9cf7-cb22260855c6" />

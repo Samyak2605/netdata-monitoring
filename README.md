@@ -98,3 +98,5 @@ chmod +x setup.sh test_dashboard.sh cleanup.sh
 
 <img width="1440" height="900" alt="Screenshot 2025-07-15 at 6 28 19 PM" src="https://github.com/user-attachments/assets/cf078068-ebf6-4b8e-acf3-0ad0fef6ee92" />
 
+
+This is the project link: https://roadmap.sh/projects/simple-monitoring-dashboard
